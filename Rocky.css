@@ -14,3 +14,7 @@ div {
     border-radius: 5px;
     background-color: rgb(220, 194, 160)
 }
+
+div#header {
+    color: rgb(245, 232, 216)
+}
