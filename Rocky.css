@@ -1,28 +1,3 @@
-body {
-    width: 600px;
-    margin: auto;
-    font-family: 'Times New Roman', Times, serif;
-}
-
-div {
-    text-align: center;
-}
-
-#header {
-    margin: 10px 0 0 0;
-    padding: 20px;
-    border-radius: 5px;
-    background-color: rgb(220, 194, 160)
-}
-
-div#header {
-    color: rgb(245, 232, 216)
-}
-
-#header2 {
-    border-top: 1px solid burlywood;
-}
-
 a {
     padding: 15px;
     color: black;
@@ -30,17 +5,31 @@ a {
     display: inline-block;
 }
 
-img {
+body {
+    width: 600px;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.header {
+    margin: 10px 0 0 0;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(220, 194, 160);
+    color: rgb(245, 232, 216)
+}
+
+.profile_image {
     width: 200px;
     height: 200px;
     border: 1px solid black;
     border-radius: 50%;
 }
 
-main {
+.divider {
     border-bottom: 1px solid burlywood;
-}
-
-footer {
-    text-align: center;
 }
