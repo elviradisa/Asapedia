@@ -4,4 +4,13 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
+div {
+    text-align: center;
+}
 
+#header {
+    margin: 10px 0 0 0;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(220, 194, 160)
+}
