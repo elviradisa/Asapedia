@@ -22,3 +22,10 @@ div#header {
 #header2 {
     border-top: 1px solid burlywood;
 }
+
+a {
+    padding: 15px;
+    color: black;
+    text-decoration-style: dotted;
+    display: inline-block;
+}
